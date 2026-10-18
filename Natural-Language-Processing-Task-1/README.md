@@ -40,6 +40,6 @@ This folder contains the practical implementation for **Task 1** of our Natural 
 ---
 
 ## 👥 Contributors
-* **Mina Wagih** ([@MinaWagihz](https://github.com/MinaWagihz))
-* **Doha Elemary** ([@dohaelemary](https://github.com/dohaelemary))
-* **Amr Alaa** ([@Amr-Alaa](https://github.com/Amor296))
+* **Mina Wagih** ([@MinaWagihz](https://github.com/MinaWagihz)).
+* **Doha Elemary** ([@dohaelemary](https://github.com/dohaelemary)).
+* **Amr Alaa** ([@Amr-Alaa](https://github.com/Amor296)).
